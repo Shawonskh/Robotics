@@ -17,3 +17,17 @@ Lab 4 talks about the motion detection, measuring pressure, temperature, altitud
 Lab 5 introduces the trackbar. Using a camera for differentiating the filtered colours then controlling the gopigo accoroding to the camera selection. 
 
 
+Lab 6 is all about Dilationation, Erosionation, Imageclosing, bluring the image, morphological operations. 
+
+
+Lab 7 works with controllers. Here I successfully dveloped and solved the way to get specific line loaction "def get_line_location(frame)" with gopigo using frame function. "def bang_bang(linelocation)": this function was used to implement a simple bang-bang controller. For the implementation of bang-bang controller with hysteresis "def bang_bang_with_hysteresis(linelocation)" was used. Additionally, proportional and PID controller were also introduced in this lab. 
+
+
+Lab 8 uses a way to get distance from the robot till any obstacle using line sensors. 
+
+
+Lab 9 premises kalman filter of image processing, image normalisation.
+
+
+Lab 10 is about the detection of the markers. 
+
